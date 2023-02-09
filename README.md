@@ -18,6 +18,7 @@ RPi Pico W :
 
 \
 Liens utilies :
-/
+\
 https://files.seeedstudio.com/wiki/Grove_Shield_for_Pi_Pico_V1.0/Begiinner's-Guide-for-Raspberry-Pi-Pico.pdf
+\
 https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B
