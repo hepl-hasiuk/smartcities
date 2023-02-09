@@ -4,13 +4,13 @@
 
 [GPIO](GPIO) : LED simple, bouton-poussoir, interruption.
 \
-AD-PWM : lecture du potentiomètre, PWM (LED, musique, servo).
+[AD-PWM](AD-PWM): lecture du potentiomètre, PWM (LED, musique, servo).
 \
-LCD : documentation des fonctions de la librairie, affichage de la valeur du potentiomètre.
+[LCD](LCD) : documentation des fonctions de la librairie, affichage de la valeur du potentiomètre.
 \
-LED_neo : utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel.
+[LED_neo](LED_neo) : utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel.
 \
-sensors : température et humidité, luminosité, PIR.
+[LED_neo](LED_neo) : température et humidité, luminosité, PIR.
 \
-network : Accès réseau avec le RPi Pico.
+[network](network) : Accès réseau avec le RPi Pico.
 \
