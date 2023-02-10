@@ -15,7 +15,8 @@ RPi Pico W :
 [LED_neo](LED_neo) : température et humidité, luminosité, PIR.
 \
 [network](network) : Accès réseau avec le RPi Pico.
-
+\
+[TestingCodes](TestingCodes) : Ce sont des codes de tests sur Thonny
 \
 Liens utilies :
 \
