@@ -2,7 +2,7 @@
 
 Les étudiants de 3ème bachelier en section électronique systèmes embarquée réaliseront une partie du projet intitulé smartcities dans le cadre du cours de "Projet Smartcities" avec M. Camus. Ce projet sera réalisé sur base d'un Raspberry Pi Pico W afin de savoir gérer et contrôler différentes parties d'un couloir intelligent.
 
-Ce GitHub vous permettra de voir de A à Z la démarche faite ainsi que les exemples avec des codes basique en microPython. Nous allons nous baser sur le manuel pour débutant avec Raspberry Pi Pico W, on l'utilisera pour faire nos exercices en microPython ainsi que les manipulations, voici un lien pour l'ouvrir en pdf :  
+Ce GitHub vous permettra de voir de A à Z la démarche faite ainsi que les exemples avec des codes basique en microPython. Nous allons nous baser sur le manuel pour débutant avec Raspberry Pi Pico W, on l'utilisera pour faire nos exercices en microPython ainsi que les manipulations, les étapes pour mettre en route votre raspberry sont repris à la page 13, voici un lien pour l'ouvrir en pdf:  
 https://files.seeedstudio.com/wiki/Grove_Shield_for_Pi_Pico_V1.0/Begiinner's-Guide-for-Raspberry-Pi-Pico.pdf
 
 
