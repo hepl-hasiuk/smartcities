@@ -6,7 +6,11 @@ Dans cette partie nous allons apprendre à utiliser un écran LCD.
 
   <img src="https://user-images.githubusercontent.com/124878705/222695164-a8b6045d-d77b-4e23-ad28-541dff601a7e.png" width="250" height="200">
   
- 
+* PRINCIPE DE FONCTIONNEMENT :
+
+  ![image](https://user-images.githubusercontent.com/124878705/222697525-8603dd31-2042-451d-beea-d7010c80a84c.png)
+
+  
 ### Les codes  
 
 * **[LCD_HELLO_world.py](LCD_HELLO_world.py)**
