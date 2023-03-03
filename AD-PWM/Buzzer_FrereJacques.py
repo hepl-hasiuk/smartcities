@@ -1,7 +1,7 @@
 # HEPL-2/3/2023 
 # Nou allons jouer la mélodie Frères Jacques
 # Hasiuk Ilya
-# 2/3/2023
+
 
 from machine import Pin, I2C, ADC, PWM
 from time import sleep
