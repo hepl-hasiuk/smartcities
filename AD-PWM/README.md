@@ -25,15 +25,15 @@ Pour cette partie nous allons ajouter les modules suivants :
 
     Nous allons éteindre et allumer la LED progressivement grâce à une boucle while
 
-*Pourquoi 65535 ?
-Dans le programme, nous utilisons "read_u16()" pour lire la valeur analogique renvoyée par la broche, où
-« u16 » signifie lire la valeur analogique sous la forme d'un entier binaire non signé de 16 bits maximum. Le
-la valeur maximale de l'entier binaire 16 bits est 1111111111111111, ce qui est égal à 65535
-après conversion sous forme décimale*
+    *Pourquoi 65535 ?
+    Dans le programme, nous utilisons "read_u16()" pour lire la valeur analogique renvoyée par la broche, où
+    « u16 » signifie lire la valeur analogique sous la forme d'un entier binaire non signé de 16 bits maximum. Le
+    la valeur maximale de l'entier binaire 16 bits est 1111111111111111, ce qui est égal à 65535
+    après conversion sous forme décimale*
 
-Ci-dessous vous pouvez voir que la luminosité de la LED varie 
+    Ci-dessous vous pouvez voir que la luminosité de la LED varie 
 
-<img src="https://user-images.githubusercontent.com/124878705/222678563-75a279c9-7ae5-417f-9630-1ef1988f2da4.png" width="320" height="300"> <img src="https://user-images.githubusercontent.com/124878705/222678629-ac9f610c-f910-4cac-9375-15259deef2f0.png" width="320" height="300"> <img src="https://user-images.githubusercontent.com/124878705/222678594-f9170b93-a68a-4c71-9fb9-6df1489c558c.png" width="320" height="300">
+    <img src="https://user-images.githubusercontent.com/124878705/222678563-75a279c9-7ae5-417f-9630-1ef1988f2da4.png" width="320" height="300"> <img src="https://user-images.githubusercontent.com/124878705/222678629-ac9f610c-f910-4cac-9375-15259deef2f0.png" width="320" height="300"> <img src="https://user-images.githubusercontent.com/124878705/222678594-f9170b93-a68a-4c71-9fb9-6df1489c558c.png" width="320" height="300">
 
 
 
