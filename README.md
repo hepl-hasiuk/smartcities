@@ -20,14 +20,16 @@ Ce GitHub vous permettra de voir de A à Z la démarche faite ainsi que les exem
 **[network](network)**: *Accès réseau avec le RPi Pico*
 \
 **[TestingCodes](TestingCodes)**: *Ce sont des codes de tests sur Thonny*
-\
-**[RaspberryPiPicoW](RaspberryPiPicoW)**: *Les caractéristiques de Raspberry Pi Pico W*
+
 
 
 
 # RPi Pico W :
 
 ![image](https://user-images.githubusercontent.com/124878705/217785334-c6390d11-3a1c-4384-9215-b46f3d40492a.png)
+
+
+**[RaspberryPiPicoW](RaspberryPiPicoW)**: *Les caractéristiques de Raspberry Pi Pico W*
 
 *Il existe différents environnement pour programme en python, le plus simple est Thonny, voici un lien pour l'installer du site officiel :* 
 **https://thonny.org/**
