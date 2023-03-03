@@ -24,9 +24,6 @@ Dans cette partie nous allons nous servir des modules suivants :
 
   <img src="https://user-images.githubusercontent.com/124878705/222668843-afe4a6e4-9bfa-40e8-a5e8-0c7d36958cae.png" width="200" height="200">
 
-* Grove Rotary Angle Sensor :
-
-  <img src="https://user-images.githubusercontent.com/124878705/222668953-0af7920e-bb6b-4e80-bf0b-6f875a5b1213.png" width="200" height="200">
 
 ## Quelques mots sur les codes 
 
