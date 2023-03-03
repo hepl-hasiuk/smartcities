@@ -1,5 +1,5 @@
 # HEPL-2/3/2023 
-# Nou allons jouer la gamme de do avec notre buzzer
+# Nous allons jouer la gamme de do avec notre buzzer
 # Hasiuk Ilya
 # 2/3/2023
 
