@@ -42,13 +42,15 @@ Pour cette partie nous allons ajouter les modules suivants :
 
 * [Buzzer_GammeDO.py](Buzzer_GammeDO.py) :musical_keyboard:
 
+    <img src="https://user-images.githubusercontent.com/124878705/222679308-f206efc1-930f-4921-9e30-f5b548b2457d.png" width="400" height="200">
+    
     Les fréquences utilisées dans le codes ainsi que d'autres octaves et d'autres fréquences
 
-    <img src="https://user-images.githubusercontent.com/124878705/222679308-f206efc1-930f-4921-9e30-f5b548b2457d.png" width="400" height="200">
+    <img src="https://user-images.githubusercontent.com/124878705/222655490-04c171d3-af8d-45ab-900c-0189ddd0d2b3.png" width="400" height="300">   
 
     Malheureusement je ne saurais pas vous faire écouter la gamme de DO à travers une image, donc je vous invite à tester le code par vous même :blush: :musical_note:
 
-    <img src="https://user-images.githubusercontent.com/124878705/222655490-04c171d3-af8d-45ab-900c-0189ddd0d2b3.png" width="400" height="300">   <img src="https://user-images.githubusercontent.com/124878705/222679553-e6f5becf-4e3d-4740-a068-1ee654fa1438.png" width="200" height="200">
+    <img src="https://user-images.githubusercontent.com/124878705/222679553-e6f5becf-4e3d-4740-a068-1ee654fa1438.png" width="200" height="200">
 
 
 * [Buzzer_FrereJacques.py](Buzzer_FrereJacques.py)
