@@ -1,7 +1,7 @@
 # HEPL-2/3/2023 
 # Utilisation de boutton poussoir pour allumer une LED
 # Hasiuk Ilya
-# 2/3/2023
+
 
 import machine #importation de bibliothéques nécéssaires
 import utime 
