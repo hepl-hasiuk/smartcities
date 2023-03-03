@@ -1,5 +1,8 @@
 ### Dans cette partie nous allons aprendre à utiliser le PWM avec un potentiometre, une LED et un buzzer.
 
+Certaines broches de la Raspberry Pi Pico sont dotées d’un ADC. Un ADC (Analog Digital Converter) est un convertisseur analogique vers numérique : il renvoie une valeur numérique proportionnelle à la tension mesurée.
+Les broches 26, 27 et 28 de la Raspberry Pi Pico W sont des entrées analogiques qui peuvent mesurer des valeurs sur 16 bits, allant de 0 à 65535.
+
 Pour cette partie nous allons ajouter les modules suivants : 
 
 * Grove Rotary Angle Sensor :
