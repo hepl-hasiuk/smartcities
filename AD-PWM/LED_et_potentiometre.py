@@ -1,7 +1,7 @@
 # HEPL-2/3/2023 
 # Allumer la LED avec un potentiomètre
 # Hasiuk Ilya
-# 2/3/2023
+
 
 from machine import ADC,Pin
 from utime import sleep
