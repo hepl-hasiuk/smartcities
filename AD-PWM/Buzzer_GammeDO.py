@@ -1,7 +1,7 @@
 # HEPL-2/3/2023 
 # Nous allons jouer la gamme de do avec notre buzzer
 # Hasiuk Ilya
-# 2/3/2023
+
 
 from machine import Pin,PWM
 from time import sleep
