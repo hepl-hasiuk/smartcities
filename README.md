@@ -7,21 +7,21 @@ Ce GitHub vous permettra de voir de A à Z la démarche faite ainsi que les exem
 **https://files.seeedstudio.com/wiki/Grove_Shield_for_Pi_Pico_V1.0/Begiinner's-Guide-for-Raspberry-Pi-Pico.pdf**
 
 
-**[GPIO](GPIO)** : *LED simple, bouton-poussoir, interruption*
+**[GPIO](GPIO)**: *LED simple, bouton-poussoir, interruption*
 \
 **[AD-PWM](AD-PWM)**: *lecture du potentiomètre, PWM (LED, musique, servo)*
 \
-**[LCD](LCD)** : *documentation des fonctions de la librairie, affichage de la valeur du potentiomètre*
+**[LCD](LCD)**: *documentation des fonctions de la librairie, affichage de la valeur du potentiomètre*
 \
-**[LED_neo](LED_neo)** : *utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel*
+**[LED_neo](LED_neo)**: *utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel*
 \
-**[LED_neo](LED_neo)** : *température et humidité, luminosité, PIR*
+**[LED_neo](LED_neo)**: *température et humidité, luminosité, PIR*
 \
-**[network](network)** : *Accès réseau avec le RPi Pico*
+**[network](network)**: *Accès réseau avec le RPi Pico*
 \
-**[TestingCodes](TestingCodes)** : *Ce sont des codes de tests sur Thonny*
+**[TestingCodes](TestingCodes)**: *Ce sont des codes de tests sur Thonny*
 \
-**[RaspberryPiPicoW](RaspberryPiPicoW)** : *Les caractéristiques de Raspberry Pi Pico W*
+**[RaspberryPiPicoW](RaspberryPiPicoW)**: *Les caractéristiques de Raspberry Pi Pico W*
 
 
 
