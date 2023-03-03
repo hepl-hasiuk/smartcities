@@ -1,7 +1,7 @@
 # HEPL-2/3/2023 
 # Utilisation de la PWM avec une LED 
 # Hasiuk Ilya
-# 3/3/2023
+
 
 #imporrtation de bibliothéque
 import utime
