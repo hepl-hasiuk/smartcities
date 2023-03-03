@@ -3,30 +3,30 @@
 Dans cette partie nous allons nous servir des modules suivants :
 
 
--Raspberry Pi Pico W : 
+* Raspberry Pi Pico W : 
 
-<img src="https://user-images.githubusercontent.com/124878705/222668359-00e50cb8-7700-4fe4-8175-0ff452cddf4b.png" width="250" height="200">
-
-
--Grove Shield for Pi Pico : 
-
-<img src="https://user-images.githubusercontent.com/124878705/222668607-b04c0e5f-354b-4529-b5f8-bf5a6cd6bf7d.png" width="250" height="200">
+  <img src="https://user-images.githubusercontent.com/124878705/222668359-00e50cb8-7700-4fe4-8175-0ff452cddf4b.png" width="250" height="200">
 
 
+* Grove Shield for Pi Pico : 
 
--Grove LED Pack :
-
-<img src="https://user-images.githubusercontent.com/124878705/222668710-1e479bbc-0a82-4abf-861b-3f37708d8760.png" width="200" height="200">
+  <img src="https://user-images.githubusercontent.com/124878705/222668607-b04c0e5f-354b-4529-b5f8-bf5a6cd6bf7d.png" width="250" height="200">
 
 
 
--Grove Button : 
+* Grove LED Pack :
 
-<img src="https://user-images.githubusercontent.com/124878705/222668843-afe4a6e4-9bfa-40e8-a5e8-0c7d36958cae.png" width="200" height="200">
+  <img src="https://user-images.githubusercontent.com/124878705/222668710-1e479bbc-0a82-4abf-861b-3f37708d8760.png" width="200" height="200">
 
--Grove Rotary Angle Sensor :
 
-<img src="https://user-images.githubusercontent.com/124878705/222668953-0af7920e-bb6b-4e80-bf0b-6f875a5b1213.png" width="200" height="200">
+
+* Grove Button : 
+
+  <img src="https://user-images.githubusercontent.com/124878705/222668843-afe4a6e4-9bfa-40e8-a5e8-0c7d36958cae.png" width="200" height="200">
+
+* Grove Rotary Angle Sensor :
+
+  <img src="https://user-images.githubusercontent.com/124878705/222668953-0af7920e-bb6b-4e80-bf0b-6f875a5b1213.png" width="200" height="200">
 
 ## Quelques mots sur les codes 
 
@@ -43,7 +43,7 @@ Nous apprenons à utiliser la boucle for pour allumer et éteindre la LED le nom
 
 [LED_boucle_while.py](LED_boucle_while.py)
 
-La boucle while nous permettra de faire clignoter notre led à "l'infini"
+La boucle while nous permettra de faire clignoter notre LED à "l'infini"
 
 [LED_et_Boutton.py](LED_et_Boutton.py)
 
