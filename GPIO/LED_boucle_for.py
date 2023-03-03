@@ -1,7 +1,7 @@
 # HEPL-2/3/2023 
 # Utilisation de boucle while avec la LED
 # Hasiuk Ilya
-# 2/3/2023
+
 
 #Pour les explications de cette partie voir dans le code LED_On_Off
 import machine
