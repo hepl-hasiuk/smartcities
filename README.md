@@ -1,4 +1,5 @@
-# Project SmartCities
+# Project SmartCities                                                       
+## Hasiuk Ilya - ilya.hasiuk@student.hepl.be
 
 Les étudiants de 3ème bachelier en section électronique systèmes embarquée réaliseront une partie du projet intitulé smartcities dans le cadre du cours de "Projet Smartcities" avec M. Camus. Ce projet sera réalisé sur base d'un Raspberry Pi Pico W afin de savoir gérer et contrôler différentes parties d'un couloir intelligent.
 
