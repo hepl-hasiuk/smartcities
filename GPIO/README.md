@@ -50,7 +50,7 @@ Dans cette partie nous allons nous servir des modules suivants :
 
 * **[LED_et_Boutton2.py](LED_et_Boutton2.py)**
 
-    Dans ce code la LED restera allumé lorsqu'on lache le boutton 
+    Dans ce code lorsqu'on appuie sur le bouton la LED s'allume et appuyant une seconde fois elle s'éteint.
 
     <img src="https://user-images.githubusercontent.com/124878705/222673037-ece5e00a-0fb0-4cf4-a96e-4b443e0e0bbb.png" width="200" height="200">
 
