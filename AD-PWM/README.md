@@ -57,10 +57,12 @@ Pour cette partie nous allons ajouter les modules suivants :
 
     <img src="https://user-images.githubusercontent.com/124878705/222655490-04c171d3-af8d-45ab-900c-0189ddd0d2b3.png" width="400" height="300">   
 
-    Malheureusement je ne saurais pas vous faire écouter la gamme de DO à travers une image, donc je vous invite à tester le code par vous même :blush: :musical_note:
+    Voici la gamme de DO en fichier audio ci-dessous, je vous invite  également à tester le code par vous même  :musical_note:
 
     <img src="https://user-images.githubusercontent.com/124878705/222679553-e6f5becf-4e3d-4740-a068-1ee654fa1438.png" width="200" height="200">
 
+    https://user-images.githubusercontent.com/124878705/224535541-a302c1a3-6f40-49cd-a8ce-2a4a4fa00717.mp4
+    
 
 * [Buzzer_FrereJacques.py](Buzzer_FrereJacques.py)
 
