@@ -15,6 +15,12 @@ Pour cette partie nous allons ajouter les modules suivants :
 * Grove Passive Buzzer : 
 
   <img src="https://user-images.githubusercontent.com/124878705/222676340-4f243276-304a-4bf4-8ea8-055fb75d1599.png" width="200" height="200">
+  
+ * Grove Servo :
+
+   <img src="https://user-images.githubusercontent.com/124878705/224535108-95151991-438f-4a0b-9cbb-b2e5b01b2499.png" width="200" height="200">
+
+
 
 ## Les codes :
 
@@ -64,3 +70,11 @@ Pour cette partie nous allons ajouter les modules suivants :
 
     <img src="https://user-images.githubusercontent.com/124878705/222658937-b665a7dc-ce10-4115-8552-276266f5705c.png" width="200" height="300">
 
+* [Servo_et_Potentiometre.py](Servo_et_Potentiometre.py)
+
+    Dans cette partie nous allons tester le fonctionnement du PWM à l'aide d'un servomoteur et d'un potentiomètre. 
+
+https://user-images.githubusercontent.com/124878705/224534996-7c0f8a53-e7be-4cf5-8520-2f140e49ceb9.mov
+
+
+    
