@@ -81,4 +81,11 @@ Plus d'explication sur le LCD : https://fr.wikipedia.org/wiki/%C3%89cran_%C3%A0_
     
     Dans ce code nous allons modifier l'intensité de la LED en fonction de la position du potentiomètre ainsi que mettre sa valeur sur l'écran LCD
 
+* **[LCD_Temp°_Hum.py](LCD_Temp°_Hum.py)** 
 
+
+    <img src="https://user-images.githubusercontent.com/124878705/226120490-2e9a4c0e-c89e-48ca-b744-ab91a10bc6bb.png" width="250" height="250">
+
+    <img src="https://user-images.githubusercontent.com/124878705/226120529-a5a1f0c9-27ee-4ddb-9a62-0b60b70a0de4.png" width="290" height="250">
+
+    Dans ce code nous allons afficher en temps réel la température, l'humidité et le temps. Pour le capteur il est nécessaire d'inclure la bibliothéque [dht11.py](dht11.py)
