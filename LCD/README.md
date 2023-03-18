@@ -1,10 +1,16 @@
 # LCD 
 
-Dans cette partie nous allons apprendre à utiliser un écran LCD.
+Dans cette partie nous allons apprendre à utiliser un écran LCD ainsi que le capteur DHT11 pour mesurer la température et l'humidité.
 
 * Grove - 16x2 LCD 
 
   <img src="https://user-images.githubusercontent.com/124878705/222695164-a8b6045d-d77b-4e23-ad28-541dff601a7e.png" width="250" height="200">
+  
+* Grove - Temperature & Humidity Sensor
+
+  <img src="https://user-images.githubusercontent.com/124878705/226122705-f72a00e0-fd6f-4b06-ab4a-cbe72a9776bc.png" width="250" height="200">
+
+
 
 Plus d'explication sur le LCD : https://fr.wikipedia.org/wiki/%C3%89cran_%C3%A0_cristaux_liquides
 
