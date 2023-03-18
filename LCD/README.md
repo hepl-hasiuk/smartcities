@@ -6,7 +6,6 @@ Dans cette partie nous allons apprendre à utiliser un écran LCD ainsi que le c
 
   <img src="https://user-images.githubusercontent.com/124878705/222695164-a8b6045d-d77b-4e23-ad28-541dff601a7e.png" width="250" height="200">
   
-  Plus d'explication sur le LCD : https://fr.wikipedia.org/wiki/%C3%89cran_%C3%A0_cristaux_liquides
   
 * Grove - Temperature & Humidity Sensor
 
@@ -19,6 +18,8 @@ Dans cette partie nous allons apprendre à utiliser un écran LCD ainsi que le c
   ![image](https://user-images.githubusercontent.com/124878705/222697525-8603dd31-2042-451d-beea-d7010c80a84c.png)
   
   La technologie LCD procède par filtrage de la lumière pour afficher les images à l'écran, en exploitant deux propriétés spécifiques des cristaux liquides : leur    faculté à être orientés lorsqu'ils sont soumis à un courant électrique et leur capacité à modifier ainsi la polarisation de la lumière qu'ils laissent passer.
+
+  Plus d'explication sur le LCD : https://fr.wikipedia.org/wiki/%C3%89cran_%C3%A0_cristaux_liquides
 
 ## **L'explication de la librairie [lcd1602.py](lcd1602.py)**
 
