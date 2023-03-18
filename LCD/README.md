@@ -11,6 +11,8 @@ Plus d'explication sur le LCD : https://fr.wikipedia.org/wiki/%C3%89cran_%C3%A0_
 * PRINCIPE DE FONCTIONNEMENT :
 
   ![image](https://user-images.githubusercontent.com/124878705/222697525-8603dd31-2042-451d-beea-d7010c80a84c.png)
+  
+  La technologie LCD procède par filtrage de la lumière pour afficher les images à l'écran, en exploitant deux propriétés spécifiques des cristaux liquides : leur    faculté à être orientés lorsqu'ils sont soumis à un courant électrique et leur capacité à modifier ainsi la polarisation de la lumière qu'ils laissent passer.
 
 ## **L'explication de la librairie [lcd1602.py](lcd1602.py)**
 
