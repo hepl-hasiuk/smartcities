@@ -89,3 +89,5 @@ Plus d'explication sur le LCD : https://fr.wikipedia.org/wiki/%C3%89cran_%C3%A0_
     <img src="https://user-images.githubusercontent.com/124878705/226120529-a5a1f0c9-27ee-4ddb-9a62-0b60b70a0de4.png" width="290" height="250">
 
     Dans ce code nous allons afficher en temps réel la température, l'humidité et le temps. Pour le capteur il est nécessaire d'inclure la bibliothéque [dht11.py](dht11.py)
+    
+    Dans ce code une boucle infinie est utilisée pour lire les données de température et d'humidité à partir du capteur DHT11 et afficher les résultats sur l'écran LCD1602. L'heure actuelle est également affichée à l'aide du module RTC. La méthode "setCursor" est utilisée pour définir la position du curseur sur l'écran LCD1602, puis les méthodes "print" et "write" sont utilisées pour afficher les données de température, d'humidité et de temps. La temporisation "sleep(1)" est utilisée pour retarder la boucle pendant 1 seconde avant de lire les données de température et d'humidité à nouveau.
