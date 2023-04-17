@@ -23,7 +23,7 @@ Dans ce code nous allons varier la lumière d'une LED en fonction de la quantit�
 
 * [SOUND_sensor.py](SOUND_sensor.py)
 
-En focntion du bruit sonore nous allons créer des variations sur la LED
+En fonction du bruit sonore nous allons créer des variations sur la LED
 
 
 * [PIR.py](PIR.py)
