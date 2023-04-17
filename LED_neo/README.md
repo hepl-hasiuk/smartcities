@@ -24,8 +24,23 @@
 
 # Codes et explications : 
 
+Bibliothéque nécessaire :
 * [ws2812.py](ws2812.py)
 
+Nous allons afficher une couleur différente avec un délai de 1/5ème de seconde sur un module LED_neo
+
+Le module LED_neo est connecté au Raspberry Pico W sur la pin 18 
+
 * [LED_RGB.py](LED_RGB.py)
+
+Différents types de fonctions dans cette parties servent à afficher des couleurs avec un délai de 1/5ème de seconde sur un module LED_neo
+
 * [NEO_LEDs.py](NEO_LEDs.py)
+
+Nous allons afficheer des couleurs différentes sur un module LED_neo en fonction d'un capteur de lumière et d'un capteur de son
+
+Le module LED_neo est connecté au Raspberry Pico W sur la pin 18 et le capteur de lumière sur la pin ADC0 ainsi que le capteur de son sur la pin ADC1.
+
+S'il y a de la lumière, la LED s'affiche en blanc, si le bruit est trop fort, la LED s'affiche en rouge, pour un bruit moyen, en orange, et pour un bruit faible, en vert.
+
 * [NEO_int_light.py](NEO_int_light.py)
