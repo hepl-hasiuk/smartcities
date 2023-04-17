@@ -1,3 +1,28 @@
+# LED_neo 
+
+Dans cette partie nous allons apprendre à utiliser une LED RGB ainsi que le capteur de lumiere et le capteur de son 
+
+
+
+* Grove - RGB LED (WS2813 mini)
+
+  <img src="https://user-images.githubusercontent.com/124878705/232407483-ab77ddec-f169-49f9-a289-1a8865205652.png" width="250" height="200">
+
+  
+* Grove - Sound Sensor
+
+  <img src="https://user-images.githubusercontent.com/124878705/232407588-149f01a1-7939-4649-8cbb-3ea6e063348c.png" width="250" height="200">
+
+
+* Grove - Light Sensor
+
+  <img src="https://user-images.githubusercontent.com/124878705/232407540-338cb041-f564-4ab1-b005-9f2b8e51d7a8.png" width="250" height="200">
+
+
+  
+  
+
+
 # Explication de la librairie  [ws2812.py](ws2812.py)
 
 * Importation des bibliothèques : Les bibliothèques "array", "time" et "rp2" sont importées pour permettre l'utilisation des tableaux, la gestion du temps et la configuration de la machine à états du RP2040.
