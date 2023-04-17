@@ -15,7 +15,7 @@ Ce GitHub vous permettra de voir de A à Z la démarche faite ainsi que les exem
 \
 **[LED_neo](LED_neo)**: *utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel*
 \
-**[LED_neo](LED_neo)**: *température et humidité, luminosité, PIR*
+**[sensors](sensors)**: *température et humidité, luminosité, PIR*
 \
 **[network](network)**: *Accès réseau avec le RPi Pico*
 
