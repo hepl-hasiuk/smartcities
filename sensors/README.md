@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/124878705/232414159-b29f96f7-df11-4caf-b465-158aebd9053b.png" width="250" height="200">
   
 
-(Pour la partie d'humidité et de température vous pouvez voir dans [LCD](LCD))
+(Pour la partie d'humidité et de température vous pouvez voir dans la partie LCD [LCD_Temp°_Hum.py](LCD_Temp°_Hum.py))
 
 * [servo.py](servo.py)
 
