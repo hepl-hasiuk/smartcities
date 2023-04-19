@@ -67,6 +67,7 @@ https://user-images.githubusercontent.com/124878705/232989268-cb14f597-16ed-433c
 * [NEO_LEDs.py](NEO_LEDs.py)
 
 Différents types de fonctions dans cette parties servent à afficher des couleurs avec un délai de 1/5ème de seconde sur un module LED_neo
+Vous y verrez également la fonction arc-en-ciel 
 
 
 
