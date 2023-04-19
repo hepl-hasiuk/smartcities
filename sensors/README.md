@@ -19,6 +19,10 @@ Ce code crée une classe appelée SERVO qui permet de contrôler un servo-moteur
 Dans ce code nous allons varier la lumière d'une LED en fonction de la quantité de la lumière détectée. 
 
 
+https://user-images.githubusercontent.com/124878705/232996880-734e163a-0e38-4956-aac8-c8b125958211.MOV
+
+
+
 
 
 * [SOUND_sensor.py](SOUND_sensor.py)
@@ -26,6 +30,14 @@ Dans ce code nous allons varier la lumière d'une LED en fonction de la quantit�
 En fonction du bruit sonore nous allons créer des variations sur la LED
 
 
+
+https://user-images.githubusercontent.com/124878705/232997703-df5504a9-78e8-44a1-baa9-1d8291608098.MOV
+
+
 * [PIR.py](PIR.py)
 
 Ce code illustre un exemple simple de l'utilisation d'un capteur de mouvement PIR pour contrôler une LED et un servo-moteur. Les angles et les délais utilisés pour le servo-moteur peuvent être ajustés en fonction des besoins spécifiques.
+
+
+https://user-images.githubusercontent.com/124878705/232999825-d82cfcaf-c42b-4cb3-8197-38cb516e60c5.MOV
+
