@@ -1,5 +1,6 @@
 from machine import Pin,I2C,ADC     # Importation des modules Pin, I2C et ADC de la bibliothèque machine
 from utime import sleep            # Importation de la fonction sleep du module utime
+from ws2812 import WS2812
 
 led = WS2812(18,1)                 # Initialisation d'une LED WS2812 sur la broche 18 avec 1 LED
 SOUND_SENSOR=ADC(1)                # Initialisation d'un capteur de son sur l'ADC 1
