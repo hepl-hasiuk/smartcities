@@ -52,9 +52,10 @@ Dans cette partie nous allons apprendre à utiliser une LED RGB ainsi que le cap
 Bibliothéque nécessaire :
 * [ws2812.py](ws2812.py)
 
-Nous allons afficher une couleur différente avec un délai de 1/5ème de seconde sur un module LED_neo
+Nous allons afficher une couleur différente avec un délai de 1/5ème (0.2s) de seconde sur un module LED_neo
 
 Le module LED_neo est connecté au Raspberry Pico W sur la pin 18 
+
 
 * [LED_RGB.py](LED_RGB.py)
 
