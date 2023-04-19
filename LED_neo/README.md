@@ -49,24 +49,41 @@ Dans cette partie nous allons apprendre à utiliser une LED RGB ainsi que le cap
 
 # Codes et explications : 
 
-Bibliothéque nécessaire :
-* [ws2812.py](ws2812.py)
+Bibliothéque nécessaire : [ws2812.py](ws2812.py)
+
+
+* [LED_RGB.py](LED_RGB.py)
 
 Nous allons afficher une couleur différente avec un délai de 1/5ème (0.2s) de seconde sur un module LED_neo
 
 Le module LED_neo est connecté au Raspberry Pico W sur la pin 18 
 
 
-* [LED_RGB.py](LED_RGB.py)
 
-Différents types de fonctions dans cette parties servent à afficher des couleurs avec un délai de 1/5ème de seconde sur un module LED_neo
+https://user-images.githubusercontent.com/124878705/232989268-cb14f597-16ed-433c-b831-5db9728e75ba.MOV
+
+
 
 * [NEO_LEDs.py](NEO_LEDs.py)
 
-Nous allons afficheer des couleurs différentes sur un module LED_neo en fonction d'un capteur de lumière et d'un capteur de son
+Différents types de fonctions dans cette parties servent à afficher des couleurs avec un délai de 1/5ème de seconde sur un module LED_neo
+
+
+
+https://user-images.githubusercontent.com/124878705/232990383-670c8422-f5b8-4a5e-942f-f2f303fe3ba1.MOV
+
+
+* [NEO_int_light.py](NEO_int_light.py)
+
+Nous allons afficher des couleurs différentes sur un module LED_neo en fonction d'un capteur de lumière et d'un capteur de son
 
 Le module LED_neo est connecté au Raspberry Pico W sur la pin 18 et le capteur de lumière sur la pin ADC0 ainsi que le capteur de son sur la pin ADC1.
 
 S'il y a de la lumière, la LED s'affiche en blanc, si le bruit est trop fort, la LED s'affiche en rouge, pour un bruit moyen, en orange, et pour un bruit faible, en vert.
 
-* [NEO_int_light.py](NEO_int_light.py)
+
+
+https://user-images.githubusercontent.com/124878705/232993555-fd490faa-45a4-496f-a001-87cd0e84c009.MOV
+
+
+
