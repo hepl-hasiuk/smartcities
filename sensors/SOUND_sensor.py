@@ -1,7 +1,7 @@
 # Importation des modules nécessaires
 from machine import Pin, I2C, ADC
 from utime import sleep
-
+from ws2812 import WS2812
 # Initialisation de la LED WS2812 sur la broche 18 avec 1 pixel
 led = WS2812(18, 1)
 
