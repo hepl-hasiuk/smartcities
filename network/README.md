@@ -16,6 +16,14 @@ Grâce à un appel API à OpenWeatherMap nous avons réussi à obtenir la mété
 
 # Wifi connection avec le Pico W
 
+Grâce au code : [wifiConection.py](wifiConection.py) et la libraire qui l'accompagne : [secrets.py](secrets.py), nou allons nous connecter à notre réseau wifi avec le Raspberry.
+
+Le résultat attendu : 
+
+![image](https://user-images.githubusercontent.com/124878705/236563841-ea290279-8718-4c86-b967-53a74d2193cf.png)
+
+Grâce aux données vous pourrez ensuite vous connecter à votre raspberry avec d'autres appareils.
+
 
 
 # NTP
