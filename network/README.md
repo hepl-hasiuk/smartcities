@@ -1,3 +1,16 @@
+# Wifi connection avec le Pico W
+
+Grâce au code : [wifiConection.py](wifiConection.py) et la libraire qui l'accompagne : [secrets.py](secrets.py), nou allons nous connecter à notre réseau wifi avec le Raspberry.
+
+Le résultat attendu : 
+
+![image](https://user-images.githubusercontent.com/124878705/236563841-ea290279-8718-4c86-b967-53a74d2193cf.png)
+
+Grâce aux données vous pourrez ensuite vous connecter à votre raspberry avec d'autres appareils.
+
+
+
+
 # Météo à partir de Openweathermap avec un rapberry pico W
 
 [Meteo.py](Meteo.py) 🌤 🌥 
@@ -31,16 +44,9 @@ En passant par JSON Formatter & Validator (curiousconcept.com) nous obtenons :
 
 Grâce à un appel API à OpenWeatherMap nous avons réussi à obtenir la météo de notre ville ainsi que d’autres données que nous pouvons maintenant utiliser, pour affichage plus simple nous pouvons aller directement chercher la donnée qu’il nous faut et l’afficher ou bien passer par le formateur JSON.  Attention de bien mettre les unités en métrique car si non les températures sont par défaut en Kelvins. Grâce à ce labo nous savons utiliser un API et donc aller chercher les données nécessaires sur les sites.
 
-# Wifi connection avec le Pico W
-
-Grâce au code : [wifiConection.py](wifiConection.py) et la libraire qui l'accompagne : [secrets.py](secrets.py), nou allons nous connecter à notre réseau wifi avec le Raspberry.
-
-Le résultat attendu : 
-
-![image](https://user-images.githubusercontent.com/124878705/236563841-ea290279-8718-4c86-b967-53a74d2193cf.png)
-
-Grâce aux données vous pourrez ensuite vous connecter à votre raspberry avec d'autres appareils.
 
 
 
 # NTP
+
+
