@@ -54,7 +54,7 @@ humidity = r_json["main"]["humidity"]
 pressure = r_json["main"]["pressure"]
 
 # Affichage des informations météorologiques récupérées
-print("Météo depuis openweathermap")
+print("Météo reçu de openweathermap")
 print("----------------------------------------")
 print("Lieu:", r_json["name"])
 print("Pression atmosphérique:", round(pressure), "hPa")
@@ -64,3 +64,4 @@ print("Humidité relative:", round(humidity), "%")
 
 # Déconnexion du réseau WiFi
 wlan.disconnect()
+
