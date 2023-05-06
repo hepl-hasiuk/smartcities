@@ -48,8 +48,6 @@ r_json = r.json()
 
 # Extraction des informations de température, d'humidité et de pression atmosphérique
 temp = r_json["main"]["temp"]
-temp_min = r_json["main"]["temp_min"]
-temp_max = r_json["main"]["temp_max"]
 humidity = r_json["main"]["humidity"]
 pressure = r_json["main"]["pressure"]
 
