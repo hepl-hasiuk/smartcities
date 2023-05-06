@@ -50,5 +50,12 @@ Grâce à un appel API à OpenWeatherMap nous avons réussi à obtenir la mété
 # NTP
 Le NTP (Network Time Protocol) est un protocole décrit dans la RFC 958 visant à synchroniser les horloges des systèmes informatiques. Il repose sur le protocole UDP sans connexion (port 123) et fait partie de la suite des protocoles Internet. Pour le processus de synchronisation, NTP s’appuie sur le Coordinated Universal Time (UTC) que les différents clients et serveurs obtiennent au sein d’un système hiérarchique.
 
+[NTPpy](NTP.py)
+
+Ce code permet de se connecter à un réseau WiFi et d'afficher l'heure actuelle sur un écran LCD. Il utilise le protocole NTP (Network Time Protocol) pour récupérer l'heure depuis un serveur NTP et ajuste l'heure en fonction de la timezone où il est exécuté. Le code se divise en deux parties: la première récupère l'heure en utilisant NTP et la seconde affiche cette heure sur un écran LCD en boucle pendant cinq fois.
+
+
+
+https://user-images.githubusercontent.com/124878705/236623131-fc93a4b5-476f-4609-b8aa-db5f9ccc0d3b.MOV
 
 
