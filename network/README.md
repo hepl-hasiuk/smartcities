@@ -48,5 +48,7 @@ Grâce à un appel API à OpenWeatherMap nous avons réussi à obtenir la mété
 
 
 # NTP
+Le NTP (Network Time Protocol) est un protocole décrit dans la RFC 958 visant à synchroniser les horloges des systèmes informatiques. Il repose sur le protocole UDP sans connexion (port 123) et fait partie de la suite des protocoles Internet. Pour le processus de synchronisation, NTP s’appuie sur le Coordinated Universal Time (UTC) que les différents clients et serveurs obtiennent au sein d’un système hiérarchique.
+
 
 
