@@ -3,7 +3,14 @@ from machine import I2C,Pin
 import network, socket       
 import struct                
 from secrets import *        
-import utime                 
+import utime      
+from lcd1602 import LCD1602 
+
+#parttie pour le LCD
+i2c = I2C(1,scl=Pin(7), sda=Pin(6), freq=400000) 
+d = LCD1602(i2c, 2, 16)      
+d.display()                  
+i = 0
 
 #Offset  = notre décallage par rapport à Greenwich, il faut 2h ou bien 7200 secondes de plus pour la Belgique
 #Donc la fonction enverra l'heure actuelle + 2 heures
@@ -73,16 +80,10 @@ print('Connected to WiFi network: ',end="")
 print(wlan.config("ssid"))
 print()
 
-t_now=get_time() 
+t_now=get_time() # protocole NTP sert à obtenir la date et l'heure.
 print("Time is: {:2d}:{:02d}:{:02d}".format(t_now[3],t_now[4],t_now[5]))
 
-from lcd1602 import LCD1602  
-
-i2c = I2C(1,scl=Pin(7), sda=Pin(6), freq=400000) 
-d = LCD1602(i2c, 2, 16)      
-d.display()                  
-i = 0
-
+#partie pour l'affichage sur le LCD 
 for i in range (5):
     t_now=get_time()
     d.clear()                    
@@ -90,7 +91,7 @@ for i in range (5):
     d.print(str(t_now[2]) +"/" + str(t_now[1]) +"/" + str(t_now[0]))     
     d.setCursor(0, 1)            
     d.print('Heure: ')            
-    d.print(str(t_now[3]) +"h" + str(t_now[4]) +"m" + str(t_now[5])+"s") 
-    utime.sleep(1)              
-
+    d.print(str(t_now[3]) +"h" + str(t_now[4]) +"m" + str(t_now[5])+"s") #affichage des données
+    utime.sleep(1)    #pause          
+#DECONNETCE DU WIFI
 wlan.disconnect()
