@@ -1,6 +1,16 @@
 # Météo à partir de Openweathermap avec un rapberry pico W
 
+[Meteo.py](Meteo.py) 🌤 🌥 
+
+
 OpenWeatherMap est un service en ligne qui fournit des données météorologiques en temps réel et des prévisions météorologiques pour des emplacements spécifiques dans le monde entier. Il fournit des informations telles que la température actuelle, les prévisions à court et long terme, les précismartcitiespitations, les conditions météorologiques extrêmes et bien plus encore.
+
+OpenWeatherMap a un plan gratuit pour les développeurs qui offre jusqu'à 60 requêtes par minute. Des plans payants sont également disponibles pour les demandes plus importantes. Veuillez noter que les limites de requêtes peuvent changer sans préavis.
+
+Résultats attendus : 
+
+![image](https://user-images.githubusercontent.com/124878705/236621359-8dde0ad7-fc19-40b2-bf21-997a57770947.png)
+
 
 
 
