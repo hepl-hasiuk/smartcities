@@ -2,11 +2,14 @@
 # Librairie necéssaire qui contient des information afin qu'on puisse se connecter au réseau
 # Hasiuk Ilya
 
-my_secrets = {
-    "ssid" : "VOTRE WIFI",
-    "WiFi_pass" : "VOTRE MOT DE PASSE",
-    "OWM_API_key" : " ",
 
-    "lat" : " ",
-    "lon" : " "
+my_secrets = {
+    "ssid" : "Le nom de votre wifi",             
+    "WiFi_pass" : "Votre mot de passe",        
+    "OWM_API_key" : "Votre clé API de OpenWeatherMap",       
+    # My location :
+    "lat" : "Lattitude",               
+    "lon" : "Longitude",                 
+    "units" : "metric"
 }
+
